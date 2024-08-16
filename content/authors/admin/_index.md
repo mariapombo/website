@@ -14,7 +14,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -149,4 +149,4 @@ languages:
 
 ## About Me
 
-I am a fifth-year PhD student working with Dr. Denis Pelli at New York University (NYU). I am interested in using psychological tools to characterize aesthetic judgment and its influence on everyday decisions. My work ranges from basic science to applied settings. 
+I am a fifth-year Ph.D. student working with Dr. Denis Pelli at New York University (NYU). I am interested in using psychological tools to characterize aesthetic judgment and its influence on everyday decisions. My work ranges from basic science to applied settings. 

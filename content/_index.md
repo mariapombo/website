@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: wall.jpg
+          filename: colorwall.svg
           filters:
             brightness: 1.0
           size: cover
@@ -32,19 +32,24 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: Research
-      subtitle: 'Beauty Variance'
+      title: '**Research**'
+      subtitle: ''
       text: |-
-       Beauty judgments are subjective and highly variable. My work explores different types of beauty variance (intrinsic, within participants, across participants), effective ways to measure and model them, and the theoretical and practical implications of variance heterogeneity. 
-      subtitle: 'Aesthetics of Reading & Typography'
-      text: |-
+        **Beauty Variance**\
+        Beauty judgments are subjective and highly variable. My work explores different types of beauty variance (intrinsic, within participants, across participants), effective ways to measure and model them, and the theoretical and practical implications of variance heterogeneity.
+        \
+        \
+        **Aesthetics of Reading & Typography**\
         In this branch of my work, I’m interested in understanding how the different facets of the subjective experience of reading, such as a font’s beauty or the pleasure of a passage, relate to reading performance (e.g., reading speed and comprehension). I aim to characterize individual differences across participants and fonts. 
-      subtitle: 'Symmetry'
-      text: |-
+        \
+        \
+        **Symmetry**\
         Some of my earlier work looked at the perception of and appreciation for multiple axes of symmetry. In an applied setting, I have also looked at how symmetry in product packaging can convey product premiumness and how symmetry relates to approach/avoid motivated behavior.
-      subtitle: 'Collaborations'
-      text: |-
+        \
+        \
+        **Other Collaborations**\
         In collaboration with other members of the lab, I have worked to develop and validate a way of ensuring accurate fixation in online vision experiments, including crowding, without using an eye tracker. I have also collaborated on projects exploring the relationship between beauty and emotion and understanding the social context of beautiful experiences.
+      
     design:
       columns: '1'
   # - block: collection
