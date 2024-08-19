@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recall Memory | Maria Pombo</title>
-    <link>//localhost:52598/tags/recall-memory/</link>
-      <atom:link href="//localhost:52598/tags/recall-memory/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:53187/tags/recall-memory/</link>
+      <atom:link href="//localhost:53187/tags/recall-memory/index.xml" rel="self" type="application/rss+xml" />
     <description>Recall Memory</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:52598/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:53187/media/icon_hu7729264130191091259.png</url>
       <title>Recall Memory</title>
-      <link>//localhost:52598/tags/recall-memory/</link>
+      <link>//localhost:53187/tags/recall-memory/</link>
     </image>
     
     <item>
       <title>The intrinsic variance of beauty judgment</title>
-      <link>//localhost:52598/publications/pombo-intrinsic-2023/</link>
+      <link>//localhost:53187/publications/pombo-intrinsic-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:52598/publications/pombo-intrinsic-2023/</guid>
+      <guid>//localhost:53187/publications/pombo-intrinsic-2023/</guid>
       <description></description>
     </item>
     

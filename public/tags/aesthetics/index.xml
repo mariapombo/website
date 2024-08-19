@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aesthetics | Maria Pombo</title>
-    <link>//localhost:52598/tags/aesthetics/</link>
-      <atom:link href="//localhost:52598/tags/aesthetics/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:53187/tags/aesthetics/</link>
+      <atom:link href="//localhost:53187/tags/aesthetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Aesthetics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:52598/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:53187/media/icon_hu7729264130191091259.png</url>
       <title>Aesthetics</title>
-      <link>//localhost:52598/tags/aesthetics/</link>
+      <link>//localhost:53187/tags/aesthetics/</link>
     </image>
     
     <item>
       <title>The intrinsic variance of beauty judgment</title>
-      <link>//localhost:52598/publications/pombo-intrinsic-2023/</link>
+      <link>//localhost:53187/publications/pombo-intrinsic-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:52598/publications/pombo-intrinsic-2023/</guid>
+      <guid>//localhost:53187/publications/pombo-intrinsic-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How aesthetic features convey the concept of brand premiumness</title>
-      <link>//localhost:52598/publications/pombo-how-2021/</link>
+      <link>//localhost:53187/publications/pombo-how-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:52598/publications/pombo-how-2021/</guid>
+      <guid>//localhost:53187/publications/pombo-how-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is Beauty in the Eye of the Beholder or an Objective Truth? A Neuroscientific Answer</title>
-      <link>//localhost:52598/publications/aleem-is-2019/</link>
+      <link>//localhost:53187/publications/aleem-is-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:52598/publications/aleem-is-2019/</guid>
+      <guid>//localhost:53187/publications/aleem-is-2019/</guid>
       <description></description>
     </item>
     
