@@ -35,19 +35,21 @@ profiles:
 
 
 education:
-  - area: Ph.D. Cognition and Perception
+  - area: Ph.D. in Cognition and Perception (expected)
     institution: New York University
-    date_start: 2020
-    date_end: 2025
+    date_start: 2020-09-02
+    date_end: 2025-05-15
     summary: |
       Dissertation: "Variance in Beauty Judgment"
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-
-  - area: BA in Psychology
+  - area: M.Phil. in Psychology
+    institution: New York University
+    date_end: 2024-05-15
+  - area: B.A. in Psychology
     institution: Georgetown University
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-08-20
+    date_end: 2020-05-15
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -76,32 +78,58 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Skills
     items:
+      - name: R
+        description: ''
+        percent: 100
+        icon: r
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: python
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: matrix
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
+  - name: Software Skills
+    items:
+      - name: PsychoPy
+        description: ''
+        percent: 100
+        icon: copy-check
+      - name: Qualtrics
+        description: ''
+        percent: 100
+        icon: sliders-solid
+      - name: Prolific
+        description: ''
+        percent: 100
+        icon: affiliate
+      - name: EasyEyes
+        description: ''
+        percent: 100
+        icon: eye
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Ultimate Frisbee
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: inner-shadow-bottom-left
+      - name: Crochet
         description: ''
         percent: 100
-        icon: cat
+        icon: needle-thread
+      - name: Baking
+        description: ''
+        percent: 80
+        icon: cake
       - name: Photography
         description: ''
         percent: 80

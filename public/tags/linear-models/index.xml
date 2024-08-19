@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Models | Maria Pombo</title>
+    <link>//localhost:52598/tags/linear-models/</link>
+      <atom:link href="//localhost:52598/tags/linear-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:52598/media/icon_hu7729264130191091259.png</url>
+      <title>Linear Models</title>
+      <link>//localhost:52598/tags/linear-models/</link>
+    </image>
+    
+    <item>
+      <title>Emotions of subject and object affect beauty differently for images and music</title>
+      <link>//localhost:52598/publications/bruns-emotions-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:52598/publications/bruns-emotions-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

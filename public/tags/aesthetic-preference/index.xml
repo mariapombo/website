@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aesthetic Preference | Maria Pombo</title>
+    <link>//localhost:52598/tags/aesthetic-preference/</link>
+      <atom:link href="//localhost:52598/tags/aesthetic-preference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aesthetic Preference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:52598/media/icon_hu7729264130191091259.png</url>
+      <title>Aesthetic Preference</title>
+      <link>//localhost:52598/tags/aesthetic-preference/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Axes of Visual Symmetry: Detection and Aesthetic Preference</title>
+      <link>//localhost:52598/publications/pombo-multiple-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:52598/publications/pombo-multiple-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

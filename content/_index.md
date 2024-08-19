@@ -32,47 +32,47 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '**Research**'
+      title: 'Research'
       subtitle: ''
       text: |-
-        **Beauty Variance**\
+        📉 **Beauty Variance**\
         Beauty judgments are subjective and highly variable. My work explores different types of beauty variance (intrinsic, within participants, across participants), effective ways to measure and model them, and the theoretical and practical implications of variance heterogeneity.
         \
         \
-        **Aesthetics of Reading & Typography**\
+        📖 **Aesthetics of Reading & Typography**\
         In this branch of my work, I’m interested in understanding how the different facets of the subjective experience of reading, such as a font’s beauty or the pleasure of a passage, relate to reading performance (e.g., reading speed and comprehension). I aim to characterize individual differences across participants and fonts. 
         \
         \
-        **Symmetry**\
+        🦋 **Symmetry**\
         Some of my earlier work looked at the perception of and appreciation for multiple axes of symmetry. In an applied setting, I have also looked at how symmetry in product packaging can convey product premiumness and how symmetry relates to approach/avoid motivated behavior.
         \
         \
-        **Other Collaborations**\
+        🧿 **Other Collaborations**\
         In collaboration with other members of the lab, I have worked to develop and validate a way of ensuring accurate fixation in online vision experiments, including crowding, without using an eye tracker. I have also collaborated on projects exploring the relationship between beauty and emotion and understanding the social context of beautiful experiences.
       
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
