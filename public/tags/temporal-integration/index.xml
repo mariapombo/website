@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Temporal Integration | Maria Pombo</title>
-    <link>//localhost:53187/tags/temporal-integration/</link>
-      <atom:link href="//localhost:53187/tags/temporal-integration/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:53921/tags/temporal-integration/</link>
+      <atom:link href="//localhost:53921/tags/temporal-integration/index.xml" rel="self" type="application/rss+xml" />
     <description>Temporal Integration</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:53187/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:53921/media/icon_hu15744544912853731665.png</url>
       <title>Temporal Integration</title>
-      <link>//localhost:53187/tags/temporal-integration/</link>
+      <link>//localhost:53921/tags/temporal-integration/</link>
     </image>
     
     <item>
       <title>Multiple Axes of Visual Symmetry: Detection and Aesthetic Preference</title>
-      <link>//localhost:53187/publications/pombo-multiple-2023/</link>
+      <link>//localhost:53921/publications/pombo-multiple-2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:53187/publications/pombo-multiple-2023/</guid>
+      <guid>//localhost:53921/publications/pombo-multiple-2023/</guid>
       <description></description>
     </item>
     

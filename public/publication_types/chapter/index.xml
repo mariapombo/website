@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter | Maria Pombo</title>
-    <link>//localhost:53187/publication_types/chapter/</link>
-      <atom:link href="//localhost:53187/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:53921/publication_types/chapter/</link>
+      <atom:link href="//localhost:53921/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:53187/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:53921/media/icon_hu15744544912853731665.png</url>
       <title>Chapter</title>
-      <link>//localhost:53187/publication_types/chapter/</link>
+      <link>//localhost:53921/publication_types/chapter/</link>
     </image>
     
     <item>
       <title>Is Beauty in the Eye of the Beholder or an Objective Truth? A Neuroscientific Answer</title>
-      <link>//localhost:53187/publications/aleem-is-2019/</link>
+      <link>//localhost:53921/publications/aleem-is-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:53187/publications/aleem-is-2019/</guid>
+      <guid>//localhost:53921/publications/aleem-is-2019/</guid>
       <description></description>
     </item>
     

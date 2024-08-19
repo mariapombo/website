@@ -1,8 +1,8 @@
 ---
 title: EasyEyes — A new method for accurate fixation in online vision testing
 authors:
-- Jan W. Kurzawski
-- Maria Pombo
+- Jan W. Kurzawski*
+- Maria Pombo*
 - Augustin Burchell
 - Nina M. Hanning
 - Simon Liao

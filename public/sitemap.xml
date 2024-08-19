@@ -2,299 +2,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:53187/event/example/</loc>
+    <loc>//localhost:53921/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/event/</loc>
+    <loc>//localhost:53921/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/</loc>
+    <loc>//localhost:53921/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication_types/article-journal/</loc>
+    <loc>//localhost:53921/publication_types/article-journal/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/beauty-variance/</loc>
+    <loc>//localhost:53921/tags/beauty-variance/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-consensus-2024/</loc>
+    <loc>//localhost:53921/publications/pombo-consensus-2024/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication_types/</loc>
+    <loc>//localhost:53921/publication_types/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/</loc>
+    <loc>//localhost:53921/publications/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/</loc>
+    <loc>//localhost:53921/tags/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/kurzawski-easyeyes-2023/</loc>
+    <loc>//localhost:53921/publications/kurzawski-easyeyes-2023/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/visual-crowding/</loc>
+    <loc>//localhost:53921/tags/visual-crowding/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/emotions/</loc>
+    <loc>//localhost:53921/tags/emotions/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/bruns-emotions-2023/</loc>
+    <loc>//localhost:53921/publications/bruns-emotions-2023/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/happiness/</loc>
+    <loc>//localhost:53921/tags/happiness/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/humans/</loc>
+    <loc>//localhost:53921/tags/humans/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/linear-models/</loc>
+    <loc>//localhost:53921/tags/linear-models/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/music/</loc>
+    <loc>//localhost:53921/tags/music/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/time-factors/</loc>
+    <loc>//localhost:53921/tags/time-factors/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/get-started/</loc>
+    <loc>//localhost:53921/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/academic/</loc>
+    <loc>//localhost:53921/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/</loc>
+    <loc>//localhost:53921/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/hugo-blox/</loc>
+    <loc>//localhost:53921/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/markdown/</loc>
+    <loc>//localhost:53921/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/hugo/</loc>
+    <loc>//localhost:53921/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/project/pandas/</loc>
+    <loc>//localhost:53921/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/project/</loc>
+    <loc>//localhost:53921/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/project/pytorch/</loc>
+    <loc>//localhost:53921/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/project/scikit/</loc>
+    <loc>//localhost:53921/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/second-brain/</loc>
+    <loc>//localhost:53921/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/wowchemy/</loc>
+    <loc>//localhost:53921/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/second-brain/</loc>
+    <loc>//localhost:53921/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/data-visualization/</loc>
+    <loc>//localhost:53921/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/teach-courses/</loc>
+    <loc>//localhost:53921/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/experience/</loc>
+    <loc>//localhost:53921/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/hugo-blox-builder/</loc>
+    <loc>//localhost:53921/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/javascript/</loc>
+    <loc>//localhost:53921/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/teaching/js/</loc>
+    <loc>//localhost:53921/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/teaching/python/</loc>
+    <loc>//localhost:53921/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/python/</loc>
+    <loc>//localhost:53921/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/teaching/</loc>
+    <loc>//localhost:53921/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/post/project-management/</loc>
+    <loc>//localhost:53921/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/aesthetic-preference/</loc>
+    <loc>//localhost:53921/tags/aesthetic-preference/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-multiple-2023/</loc>
+    <loc>//localhost:53921/publications/pombo-multiple-2023/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/processing-fluency/</loc>
+    <loc>//localhost:53921/tags/processing-fluency/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/symmetry-perception/</loc>
+    <loc>//localhost:53921/tags/symmetry-perception/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/temporal-integration/</loc>
+    <loc>//localhost:53921/tags/temporal-integration/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-beauty-2023/</loc>
+    <loc>//localhost:53921/publications/pombo-beauty-2023/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/aesthetics/</loc>
+    <loc>//localhost:53921/tags/aesthetics/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/intrinsic-variability/</loc>
+    <loc>//localhost:53921/tags/intrinsic-variability/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/recall-memory/</loc>
+    <loc>//localhost:53921/tags/recall-memory/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/repeated-measures/</loc>
+    <loc>//localhost:53921/tags/repeated-measures/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/sequential-dependence/</loc>
+    <loc>//localhost:53921/tags/sequential-dependence/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/subjective-beauty-judgments/</loc>
+    <loc>//localhost:53921/tags/subjective-beauty-judgments/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-intrinsic-2023/</loc>
+    <loc>//localhost:53921/publications/pombo-intrinsic-2023/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-aesthetics-2022/</loc>
+    <loc>//localhost:53921/publications/pombo-aesthetics-2022/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/curvature/</loc>
+    <loc>//localhost:53921/tags/curvature/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/pombo-how-2021/</loc>
+    <loc>//localhost:53921/publications/pombo-how-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/multisensory-marketing/</loc>
+    <loc>//localhost:53921/tags/multisensory-marketing/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/premiumness/</loc>
+    <loc>//localhost:53921/tags/premiumness/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/symmetry/</loc>
+    <loc>//localhost:53921/tags/symmetry/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication_types/article/</loc>
+    <loc>//localhost:53921/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication/preprint/</loc>
+    <loc>//localhost:53921/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication/</loc>
+    <loc>//localhost:53921/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication_types/chapter/</loc>
+    <loc>//localhost:53921/publication_types/chapter/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publications/aleem-is-2019/</loc>
+    <loc>//localhost:53921/publications/aleem-is-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/objectivity/</loc>
+    <loc>//localhost:53921/tags/objectivity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/reinforcement-learning/</loc>
+    <loc>//localhost:53921/tags/reinforcement-learning/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/subjectivity/</loc>
+    <loc>//localhost:53921/tags/subjectivity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication/journal-article/</loc>
+    <loc>//localhost:53921/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/source-themes/</loc>
+    <loc>//localhost:53921/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication/conference-paper/</loc>
+    <loc>//localhost:53921/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/tags/large-language-models/</loc>
+    <loc>//localhost:53921/tags/large-language-models/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/publication_types/paper-conference/</loc>
+    <loc>//localhost:53921/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:53187/projects/</loc>
+    <loc>//localhost:53921/projects/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

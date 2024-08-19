@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curvature | Maria Pombo</title>
-    <link>//localhost:53187/tags/curvature/</link>
-      <atom:link href="//localhost:53187/tags/curvature/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:53921/tags/curvature/</link>
+      <atom:link href="//localhost:53921/tags/curvature/index.xml" rel="self" type="application/rss+xml" />
     <description>Curvature</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:53187/media/icon_hu7729264130191091259.png</url>
+      <url>//localhost:53921/media/icon_hu15744544912853731665.png</url>
       <title>Curvature</title>
-      <link>//localhost:53187/tags/curvature/</link>
+      <link>//localhost:53921/tags/curvature/</link>
     </image>
     
     <item>
       <title>How aesthetic features convey the concept of brand premiumness</title>
-      <link>//localhost:53187/publications/pombo-how-2021/</link>
+      <link>//localhost:53921/publications/pombo-how-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:53187/publications/pombo-how-2021/</guid>
+      <guid>//localhost:53921/publications/pombo-how-2021/</guid>
       <description></description>
     </item>
     
