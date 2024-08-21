@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: '*iScience*'
 doi: 10.1016/j.isci.2024.110213
-abstract: textlessh2textgreaterSummarytextless/h2textgreatertextlessptextgreaterVariance
+abstract: Variance
   across participants is at the heart of the centuries-old debate about the universality
   of beauty. Beauty's belonging to the eye of the beholder implies large interindividual
   variance, while beauty as a universal object property implies the opposite. To characterize

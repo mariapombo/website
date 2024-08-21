@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symmetry Perception | Maria Pombo</title>
-    <link>//localhost:53921/tags/symmetry-perception/</link>
-      <atom:link href="//localhost:53921/tags/symmetry-perception/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/symmetry-perception/</link>
+      <atom:link href="//localhost:1313/tags/symmetry-perception/index.xml" rel="self" type="application/rss+xml" />
     <description>Symmetry Perception</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:53921/media/icon_hu15744544912853731665.png</url>
+      <url>//localhost:1313/media/icon_hu7383200382627858099.png</url>
       <title>Symmetry Perception</title>
-      <link>//localhost:53921/tags/symmetry-perception/</link>
+      <link>//localhost:1313/tags/symmetry-perception/</link>
     </image>
     
     <item>
       <title>Multiple Axes of Visual Symmetry: Detection and Aesthetic Preference</title>
-      <link>//localhost:53921/publications/pombo-multiple-2023/</link>
+      <link>//localhost:1313/publications/pombo-multiple-2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:53921/publications/pombo-multiple-2023/</guid>
+      <guid>//localhost:1313/publications/pombo-multiple-2023/</guid>
       <description></description>
     </item>
     

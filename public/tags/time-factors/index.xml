@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Factors | Maria Pombo</title>
-    <link>//localhost:53921/tags/time-factors/</link>
-      <atom:link href="//localhost:53921/tags/time-factors/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/time-factors/</link>
+      <atom:link href="//localhost:1313/tags/time-factors/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Factors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:53921/media/icon_hu15744544912853731665.png</url>
+      <url>//localhost:1313/media/icon_hu7383200382627858099.png</url>
       <title>Time Factors</title>
-      <link>//localhost:53921/tags/time-factors/</link>
+      <link>//localhost:1313/tags/time-factors/</link>
     </image>
     
     <item>
       <title>Emotions of subject and object affect beauty differently for images and music</title>
-      <link>//localhost:53921/publications/bruns-emotions-2023/</link>
+      <link>//localhost:1313/publications/bruns-emotions-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:53921/publications/bruns-emotions-2023/</guid>
+      <guid>//localhost:1313/publications/bruns-emotions-2023/</guid>
       <description></description>
     </item>
     
