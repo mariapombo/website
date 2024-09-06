@@ -58,3 +58,15 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+features:
+  # Other feature toggles...
+  css_custom: true
+
+# Add custom CSS
+css:
+  - custom.css
+
+avatar:
+ width: 1000
+ quality: 100

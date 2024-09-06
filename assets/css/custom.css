@@ -1,5 +1,19 @@
-.flex-col {
-    [padding-left: 100px !important;
-    padding-right: 10px;]
-    color: white;
-}
+
+/*.flex-col {
+  [padding-left: 100px !important;
+  padding-right: 10px;]
+  color: white;
+} */
+
+/* Custom styles for avatar image */
+.avatar {
+    width: 10px;  /* Adjust size as needed */
+    height: 10px;
+  }
+  
+  /* Ensure the image is not blurred when scaled */
+/*
+.avatar img {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  } */
